@@ -37,7 +37,7 @@
 ---
 
 ### 🐍 Contribution Snake
-![github contribution grid snake animation](https://raw.githubusercontent.com/zachvier/zachvier/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/zachvier/zachvier/output/github-contribution-grid-snake.svg)
 
 ---
 
