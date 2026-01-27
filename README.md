@@ -19,11 +19,11 @@
 
 | Category | Tools & Languages |
 | :--- | :--- |
-| **Development** | ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
-| **IT & Security** | ![Mimecast](https://img.shields.io/badge/-Mimecast-002D39?logo=mimecast&logoColor=white) ![Salesforce](https://img.shields.io/badge/-Salesforce-00A1E0?logo=salesforce&logoColor=white) ![Email Security](https://img.shields.io/badge/-Email%20Security-gray?logo=proofpoint&logoColor=white) |
-| **Platforms** | ![Zendesk](https://img.shields.io/badge/-Zendesk-03363D?logo=zendesk) ![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira) |
-| **Tooling** | ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=black) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git) ![NodeJS](https://img.shields.io/badge/-Node.js-339933?logo=node.js) |
-| **Active Projects** | ![QuickTab](https://img.shields.io/badge/QuickTab-In%20Development-orange?style=flat-square) |
+| **Languages** | ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3) |
+| **Libraries & Tools** | ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=white) ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=black) ![NodeJS](https://img.shields.io/badge/-Node.js-339933?logo=node.js) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git) |
+| **Platforms & CRM** | ![Zendesk](https://img.shields.io/badge/-Zendesk-03363D?logo=zendesk) ![Salesforce](https://img.shields.io/badge/-Salesforce-00A1E0?logo=salesforce&logoColor=white) ![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira) |
+| **Email Security** | ![Mimecast](https://img.shields.io/badge/-Mimecast-002D39?logo=mimecast&logoColor=white) ![SEG](https://img.shields.io/badge/-Email%20Security-gray?logo=proofpoint&logoColor=white) |
+| **Active Projects** | ![QuickTab](https://img.shields.io/badge/QuickTab-Extension-orange) ![API Scripts](https://img.shields.io/badge/API%20Scripts-Automation-blue) |
 
 ---
 
