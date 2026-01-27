@@ -33,6 +33,6 @@
 
 <p align="center">
   <a href="mailto:zachvier@protonmail.com">
-    <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email Me">
+    <img src="https://img.shields.io/badge/Email%20Me-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email Me">
   </a>
 </p>
