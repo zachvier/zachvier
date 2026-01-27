@@ -1,4 +1,4 @@
-# Hi there, I'm [NAME]! 👋
+# Hi there, I'm Zach! 👋
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=zachvier&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />
