@@ -10,6 +10,11 @@
 
 ---
 
+### 🐍 Contribution Snake
+![Snake animation](https://raw.githubusercontent.com/zachvier/zachvier/output/github-contribution-grid-snake.svg)
+
+---
+
 ### 💻 Tech Stack & Tools
 
 #### **Development**
@@ -33,11 +38,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=zachvier&show_icons=true&theme=radical" alt="Stats Card" width="400" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zachvier&layout=compact&theme=radical" alt="Top Langs" width="300" />
 </p>
-
----
-
-### 🐍 Contribution Snake
-![Snake animation](https://raw.githubusercontent.com/zachvier/zachvier/output/github-contribution-grid-snake.svg)
 
 ---
 
