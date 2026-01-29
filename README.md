@@ -30,15 +30,10 @@
 - **Project Focus:** Browser Extensions | IT Infrastructure | API Integrations
 - **Currently Learning:** Advanced Chrome Extension APIs and Security Policy Automation.
 
-<table width="100%" border="0">
-  <tr>
-    <td align="left" width="50%">
-      <img src="https://komarev.com/ghpvc/?username=zachvier&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />
-    </td>
-    <td align="right" width="50%">
-      <a href="mailto:zachvier@protonmail.com">
-        <img src="https://img.shields.io/badge/Email%20Me-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email Me">
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=zachvier&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Views" />
+  &nbsp;&nbsp;
+  <a href="mailto:zachvier@protonmail.com">
+    <img src="https://img.shields.io/badge/Email%20Me-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email Me">
+  </a>
+</p>
