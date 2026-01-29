@@ -1,4 +1,6 @@
-# Hi there, I'm Zach! 👋
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=35&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&height=100&lines=Zach,+Senior+Technical+Support+Engineer" />
+</div>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=zachvier&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />
