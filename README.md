@@ -3,10 +3,6 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=35&pause=1000&color=1E90FF&center=true&vCenter=true&width=800&height=100&lines=Senior+Technical+Support+Engineer" />
 </div>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=zachvier&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />
-</p>
-
 ### 🛠️ Currently Building
 - **[QuickTab](https://github.com/zachvier/quicktab)**: A Chrome extension for Zendesk tab management and deduplication. 
 - **IT Automation**: Refining SEG (Secure Email Gateway) configurations and Mimecast API integrations.
@@ -34,8 +30,15 @@
 - **Project Focus:** Browser Extensions | IT Infrastructure | API Integrations
 - **Currently Learning:** Advanced Chrome Extension APIs and Security Policy Automation.
 
-<p align="center">
-  <a href="mailto:zachvier@protonmail.com">
-    <img src="https://img.shields.io/badge/Email%20Me-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email Me">
-  </a>
-</p>
+<table width="100%" border="0">
+  <tr>
+    <td align="left" width="50%">
+      <img src="https://komarev.com/ghpvc/?username=zachvier&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />
+    </td>
+    <td align="right" width="50%">
+      <a href="mailto:zachvier@protonmail.com">
+        <img src="https://img.shields.io/badge/Email%20Me-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email Me">
+      </a>
+    </td>
+  </tr>
+</table>
