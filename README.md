@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=35&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&height=100&lines=Zach,+Senior+Technical+Support+Engineer" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=35&pause=1000&color=1E90FF&multiline=true&center=true&vCenter=true&width=800&height=150&lines=Zach;Senior+Technical+Support+Engineer" />
 </div>
 
 <p align="left">
