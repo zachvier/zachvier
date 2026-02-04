@@ -12,10 +12,23 @@ zachvier@dev:~$ ./show-stack.sh --all
 > ENV:         macos   windows   linux   git
 > TOOLS:       vscode   claude   gemini
 ```
-### Current Projects
+```bash
+zachvier@dev:~$ cat projects.json
 
-* **Zendesk QuickTab**: A Chrome POC extension for Zendesk tab management and productivity.
-* **SEG API Samples**: Building a public repository of Python and PowerShell scripts for Mimecast API 2.0 integration.
-
+[
+  {
+    "name": "Zendesk QuickTab",
+    "type": "Chrome Extension",
+    "stack": ["Vanilla JS", "Webpack 5", "SCSS"],
+    "desc": "Modernized tab management for Zendesk agents (jQuery free!)"
+  },
+  {
+    "name": "SEG API Samples",
+    "type": "Public Repository",
+    "stack": ["Python", "PowerShell"],
+    "desc": "Scripts for Mimecast API 2.0 integration"
+  }
+]
+```
 ---
 <sub>Senior Technical Support Engineer | Cybersecurity | "Don’t be a 'user' of tools; be a student of them." </sub>
