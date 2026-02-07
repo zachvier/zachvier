@@ -20,10 +20,10 @@ zachvier@dev:~$ cat projects.json
     "name": "Zendesk TabGrab",
     "type": "Chrome Extension",
     "stack": ["Vanilla JS", "Webpack 5", "SCSS"],
-    "desc": "Modernized tab management for Zendesk agents (jQuery free!)"
+    "desc": "Modernized tab management for Zendesk agents"
   },
   {
-    "name": "SEG API Samples",
+    "name": "Mimecast API Samples",
     "type": "Public Repository",
     "stack": ["Python", "PowerShell"],
     "desc": "Scripts for Mimecast API 2.0 integration"
