@@ -17,7 +17,7 @@ zachvier@dev:~$ cat projects.json
 
 [
   {
-    "name": "Zendesk QuickTab",
+    "name": "Zendesk TabGrab",
     "type": "Chrome Extension",
     "stack": ["Vanilla JS", "Webpack 5", "SCSS"],
     "desc": "Modernized tab management for Zendesk agents (jQuery free!)"
