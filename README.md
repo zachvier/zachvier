@@ -7,7 +7,7 @@
 ```bash
 zachvier@dev:~$ ./show-stack.sh --all
 
-> LANGUAGES:   main.py   app.js   index.html   script.ps1   regex
+> LANGUAGES:   main.py   app.js   index.html   script.ps1  setup.sh regex
 > SECURITY:    email_sec   spf/dkim/dmarc   m365   workspace   api
 > ENV:         macos   windows   linux   git
 > TOOLS:       vscode   claude   gemini
