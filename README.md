@@ -3,7 +3,7 @@
 ![](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=2000&color=F46800&width=500&height=40&lines=Projects+%26+tools+I%27m+tinkering+with)
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-Headless%20Server-E95420?style=flat&logo=ubuntu&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-5-A22846?style=flat&logo=raspberrypi&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=raspberrypi&logoColor=white)
 ![Bambu Lab](https://img.shields.io/badge/Bambu%20Lab-P1S-1DB954?style=flat&logo=bambulabs&logoColor=white)
 ![3D Printed](https://img.shields.io/badge/3D%20Printed-Server%20Rack-FF6B35?style=flat&logo=printables&logoColor=white)
 ![Tailscale](https://img.shields.io/badge/Tailscale-Mesh%20VPN-242424?style=flat&logo=tailscale&logoColor=white)
