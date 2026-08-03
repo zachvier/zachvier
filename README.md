@@ -1,1 +1,1 @@
-![Zach's Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=32&pause=1000&color=4B9DD6&width=450&height=50&lines=Zach,+Technical+Support;Learning+new+things)
+![Zach's Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=30&pause=1000&duration=3000&color=FFD800&width=600&height=50&lines=Zach+Vivier;Automation+%26+Homelabs;Building+Better+Systems)
